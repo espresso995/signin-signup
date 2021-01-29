@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignInAndSignUp</string>
+    <string name="courier_service">Courier Service</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="your_email_com">your@email.com</string>
+    <string name="email">Email</string>
+    <string name="password_hint">********</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="create_account">Create Account</string>
+    <string name="john_doe">John Doe</string>
+    <string name="username">Username</string>
+    <string name="_9876543210">9876543210</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create">Create Account</string>
+    <string name="already_have_an_account">Already have an account</string>
+</resources>
